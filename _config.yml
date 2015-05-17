@@ -12,3 +12,6 @@ github_username:  shadesoflight
 
 # Build settings
 markdown: kramdown
+
+include: 
+    - .nojekyl
