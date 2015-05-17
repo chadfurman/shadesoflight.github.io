@@ -1,4 +1,5 @@
 #global module:false
+# from: http://www.aymerick.com/2014/07/22/jekyll-github-pages-bower-bootstrap.html
 
 "use strict"
 
