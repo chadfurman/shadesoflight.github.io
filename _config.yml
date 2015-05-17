@@ -12,6 +12,3 @@ github_username:  shadesoflight
 
 # Build settings
 markdown: kramdown
-exclude:
-  - "bower_components"
-  - "bower.json"
